@@ -1,0 +1,25 @@
+GRAPHIC DESIGN / MARKETING:
+    - Need new graphics and logo designs for different parts of the website.
+
+SECRETARY:
+    - Need a well written description of the club to put on the website.
+    - Maybe come up with a 'phrase' for the club?
+
+Programming Coordinator/Director:
+    - Corey I need you to look into setting up an efficent way to incorporate
+      the member's personal pages into our website. How will we maintain the source
+      code without having members as collobarators on the repository? Need to figure 
+      out best approach for this part of this project.
+
+Vice President:
+    - I will need to look into how we can publish this website under the UW domain and 
+      need to look into the data side of the website (SQL).
+    - Also, please push requests to the repository for everyone else to see the changes
+      prior to just accepting the changes automatically on your own.
+
+President:
+    - We need you to make sure we aren't doing anything that is in violation of UW policy
+      or general organization policy all together. 
+    - Need help with general design and coloring of the website.
+
+
