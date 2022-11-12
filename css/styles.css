@@ -36,7 +36,7 @@
   --bs-primary: #F1EBB0;
   --bs-secondary: #EFECBA;
   --bs-success: #198754;
-  --bs-info: #FFFF;
+  --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
@@ -11332,10 +11332,10 @@ html {
   font-size: 2rem;
 } */
 .divider-custom.divider-light .divider-custom-line {
-  background-color: #F5CBA7;
+  background-color: #4b2e83;
 }
 .divider-custom.divider-light .divider-custom-icon {
-  color: #F5CBA7;
+  color: #4b2e83;
 }
 
 .btn-xl {
@@ -11369,13 +11369,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #fff;
+  color: #1abc9c;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #fff;
+  color: #1abc9c;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11397,11 +11397,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #EFECBA;
-    background: #fff;
+    background: #1abc9c;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #fff;
+    background: #1abc9c;
   }
 
   #mainNav.navbar-shrink {
