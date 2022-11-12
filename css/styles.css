@@ -47,7 +47,7 @@
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
   --bs-danger-rgb: 220, 53, 69;
-  --bs-light-rgb: 248, 249, 250;
+  --bs-light-rgb: 152, 133, 88;
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 152, 133, 88;
   --bs-black-rgb: 0, 0, 0;
@@ -3943,7 +3943,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #1abc9c;
+  color: #988558;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3953,7 +3953,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #15967d;
+  color: #988558;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -3984,7 +3984,7 @@ textarea.form-control-lg {
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
   background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
+  border-color: #988558 #988558 #fff;
 }
 .nav-tabs .dropdown-menu {
   margin-top: -0.125rem;
@@ -11482,7 +11482,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: #988558;
   font-size: 2rem;
   padding: 1rem;
 }
