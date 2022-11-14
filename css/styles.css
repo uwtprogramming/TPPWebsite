@@ -7353,7 +7353,7 @@ textarea.form-control-lg {
 }
 
 .me-auto {
-  margin-right: auto !important;
+  margin: auto !important;
 }
 
 .mb-0 {
@@ -7410,9 +7410,11 @@ textarea.form-control-lg {
 }
 
 .ms-auto {
+  margin: auto !important;
+}
+.mz-auto {
   margin-left: auto !important;
 }
-
 .p-0 {
   padding: 0 !important;
 }
