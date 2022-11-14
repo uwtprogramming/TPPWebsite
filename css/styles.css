@@ -7353,7 +7353,7 @@ textarea.form-control-lg {
 }
 
 .me-auto {
-  margin-right: auto !important;
+  margin: auto !important;
 }
 
 .mb-0 {
@@ -7410,7 +7410,7 @@ textarea.form-control-lg {
 }
 
 .ms-auto {
-  margin-left: auto !important;
+  margin: auto !important;
 }
 
 .p-0 {
